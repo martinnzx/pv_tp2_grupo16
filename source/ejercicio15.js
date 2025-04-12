@@ -2,9 +2,13 @@
 corresponde a un mes del año devolver el nombre del mes, si no se cumple entonces
 mostrar un mensaje que no es un mes. */
 
+// Pedir al usuario que ingrese un numero correspondiente a un mes
 let num = prompt("Ingrese el numero de un mes:");
+
+// Convertir el valor ingresado a un número entero
 num = parseInt(num);
 
+// Funcion que toma el numero ingresado por el usuario y muestra el nombre del mes correspondiente
 const retornarMes = (num) => {
         switch (num) {
             case 1:
@@ -48,5 +52,7 @@ const retornarMes = (num) => {
                 break;
         }
 }
+
+// Llamar a la funcion
 retornarMes(num);
 
