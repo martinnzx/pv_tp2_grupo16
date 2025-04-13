@@ -1,8 +1,8 @@
 // Declarar una variable y almacenar en ella un valor numérico que representa el lado de un cuadrado. Calcular el área y el perímetro del cuadrado y mostrar los resultados por consola.
 
-var lado1 = 10;
-var perim = 0;
-var area = 0;
+let lado1 = 10;
+let perim = 0;
+let area = 0;
 
 area = lado1 * lado1;
 perim = 4 * lado1;
