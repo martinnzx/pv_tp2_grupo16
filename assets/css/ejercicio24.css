@@ -1,0 +1,28 @@
+
+body { 
+    font-family: Arial, sans-serif; 
+    text-align: center;
+    margin: 50; 
+    padding: 50;
+    background-color: #f0f8ff;
+
+}
+
+button{
+
+    padding: 10px 25px; 
+    font-size: 18px; 
+    background-color: rgb(43, 226, 226); 
+    color: black;
+    margin: 0;
+    border-radius: 8px; 
+    width: 250x;
+    height: 80px;
+    vertical-align: middle;
+    
+}
+
+button:hover{
+    font-size: 20;
+    font-optical-sizing: auto;
+}
