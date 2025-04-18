@@ -1,0 +1,21 @@
+
+body { 
+    font-family: Arial, sans-serif; 
+    padding: 40px; 
+    background-color: #008cff; 
+} 
+
+h1{
+    color: #0d0757;
+}
+
+label { 
+    display: block; 
+    margin: 20px 0 5px; 
+} 
+
+select { 
+    padding: 8px; 
+    font-size: 16px; 
+    width: 220px; 
+}
