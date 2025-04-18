@@ -1,0 +1,19 @@
+body {  
+    font-family: Arial, sans-serif;  
+    background-color: #f4f4f4;  
+    padding: 20px;  
+}  
+
+h1 {  
+    color: #333;  
+}  
+
+label {  
+    display: block;  
+    margin: 10px 0;  
+}  
+
+#resultado {  
+    font-weight: bold;  
+    color: #007BFF;  
+}  
