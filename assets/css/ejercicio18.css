@@ -1,0 +1,23 @@
+h1{
+    font-size: 50px;
+    font-family:Verdana;
+    color: rgb(59, 177, 255);;
+}
+body{
+    background-color:rgb(28, 49, 76)
+}
+
+p{
+    font-size: 30px;
+    font-family:Verdana;
+    color:rgb(59, 177, 255);
+}
+
+button{
+    background-color: rgb(9, 9, 9);
+    color: rgb(255, 255, 255);
+}
+
+div{
+    text-align: center;
+}
